@@ -1,0 +1,18 @@
+
+# WordPress configuration
+wp-config.php
+
+# Database backup
+*.sql
+
+# Environment secrets
+.env
+.env.*
+
+# Logs and cache
+*.log
+wp-content/cache/
+
+# System files
+.DS_Store
+Thumbs.db

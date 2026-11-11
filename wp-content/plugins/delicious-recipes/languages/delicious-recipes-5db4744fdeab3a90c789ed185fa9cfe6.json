@@ -1,0 +1,42 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.11.0",
+    "source": "assets\/blocks\/recipe-card-dynamic\/components\/DirectionStep.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Add Video": [
+                ""
+            ],
+            "Delete step": [
+                ""
+            ],
+            "Insert step": [
+                ""
+            ],
+            "Move step up": [
+                ""
+            ],
+            "Move step down": [
+                ""
+            ],
+            "Enter instruction description": [
+                ""
+            ],
+            "Enter YouTube or Vimeo video URL": [
+                ""
+            ],
+            "Enter notes": [
+                ""
+            ],
+            "Enter section title": [
+                ""
+            ]
+        }
+    }
+}

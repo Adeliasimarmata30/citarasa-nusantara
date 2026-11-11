@@ -1,0 +1,194 @@
+{
+  "version": "1.0",
+  "title": "Sajian Nusantara Homepage",
+  "type": "page",
+  "content": [
+    {
+      "elType": "section",
+      "settings": {
+        "background_color": "#FFA500",
+        "structure": "20-60-20"
+      },
+      "elements": [
+        {
+          "elType": "column",
+          "elements": [
+            {
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "SAJIAN NUSANTARA",
+                "align": "left"
+              }
+            }
+          ]
+        },
+        {
+          "elType": "column",
+          "elements": [
+            {
+              "elType": "widget",
+              "widgetType": "nav-menu",
+              "settings": {
+                "menu_layout": "horizontal",
+                "menu_items": [
+                  {
+                    "text": "BERANDA",
+                    "url": "#"
+                  },
+                  {
+                    "text": "DAERAH",
+                    "url": "#"
+                  },
+                  {
+                    "text": "KATEGORI",
+                    "url": "#"
+                  },
+                  {
+                    "text": "TENTANG KAMI",
+                    "url": "#"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "elType": "column",
+          "elements": [
+            {
+              "elType": "widget",
+              "widgetType": "search",
+              "settings": {
+                "placeholder": "Search..."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "elType": "section",
+      "settings": {
+        "background_color": "#F5DEB3"
+      },
+      "elements": [
+        {
+          "elType": "column",
+          "elements": [
+            {
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "TEMUKAN KELEZATAN AUTENTIK NUSANTARA",
+                "align": "center"
+              }
+            },
+            {
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Temukan kelezatan berbagai sajan tradisional Indonesia dari Sabang hingga Merauke. Klik untuk menjelajahi resep autentik, sejarah kuliner..."
+              }
+            },
+            {
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "MULAI JELAJAHI",
+                "align": "center"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "elType": "section",
+      "settings": {
+        "background_color": "#FFA500"
+      },
+      "elements": [
+        {
+          "elType": "column",
+          "elements": [
+            {
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "JELAJAHI BERDASARKAN DAERAH",
+                "align": "center"
+              }
+            },
+            {
+              "elType": "widget",
+              "widgetType": "inner-section",
+              "elements": [
+                {
+                  "elType": "column",
+                  "elements": [
+                    {
+                      "elType": "widget",
+                      "widgetType": "image-box",
+                      "settings": {
+                        "title_text": "SUMATERA"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "elType": "column",
+                  "elements": [
+                    {
+                      "elType": "widget",
+                      "widgetType": "image-box",
+                      "settings": {
+                        "title_text": "JAWA"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "elType": "column",
+                  "elements": [
+                    {
+                      "elType": "widget",
+                      "widgetType": "image-box",
+                      "settings": {
+                        "title_text": "KALIMANTAN"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "elType": "column",
+                  "elements": [
+                    {
+                      "elType": "widget",
+                      "widgetType": "image-box",
+                      "settings": {
+                        "title_text": "SULAWESI"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "elType": "column",
+                  "elements": [
+                    {
+                      "elType": "widget",
+                      "widgetType": "image-box",
+                      "settings": {
+                        "title_text": "PAPUA"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.11.0",
+    "source": "assets\/build\/import.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Import Recipes": [
+                ""
+            ],
+            "Recipes to Import": [
+                ""
+            ],
+            "Recipe Title": [
+                ""
+            ],
+            "Featured Image": [
+                ""
+            ],
+            "Best Season": [
+                ""
+            ],
+            "Estimated Cost": [
+                ""
+            ],
+            "Calories": [
+                ""
+            ],
+            "Serving Size": [
+                ""
+            ],
+            "Total Fat": [
+                ""
+            ],
+            "Saturated Fat": [
+                ""
+            ],
+            "Trans Fat": [
+                ""
+            ],
+            "Cholesterol": [
+                ""
+            ],
+            "Sodium": [
+                ""
+            ],
+            "Potassium": [
+                ""
+            ],
+            "Total Carbohydrate": [
+                ""
+            ],
+            "Dietary Fiber": [
+                ""
+            ],
+            "Sugars": [
+                ""
+            ],
+            "Protein": [
+                ""
+            ],
+            "Vitamin A": [
+                ""
+            ],
+            "Vitamin C": [
+                ""
+            ],
+            "Calcium": [
+                ""
+            ],
+            "Iron": [
+                ""
+            ],
+            "Vitamin D": [
+                ""
+            ],
+            "Vitamin E": [
+                ""
+            ],
+            "Vitamin K": [
+                ""
+            ],
+            "Thiamin": [
+                ""
+            ],
+            "Riboflavin": [
+                ""
+            ],
+            "Niacin": [
+                ""
+            ],
+            "Vitamin B6": [
+                ""
+            ],
+            "Vitamin B12": [
+                ""
+            ],
+            "Folate": [
+                ""
+            ],
+            "Biotin": [
+                ""
+            ],
+            "Pantothenic Acid": [
+                ""
+            ],
+            "Phosphorus": [
+                ""
+            ],
+            "Iodine": [
+                ""
+            ],
+            "Magnesium": [
+                ""
+            ],
+            "Zinc": [
+                ""
+            ],
+            "Selenium": [
+                ""
+            ],
+            "Copper": [
+                ""
+            ],
+            "Manganese": [
+                ""
+            ],
+            "Chromium": [
+                ""
+            ],
+            "Molybdenum": [
+                ""
+            ],
+            "Chloride": [
+                ""
+            ],
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ],
+            "Recipe Courses": [
+                ""
+            ],
+            "Recipe Cooking Methods": [
+                ""
+            ],
+            "Recipe Cuisines": [
+                ""
+            ],
+            "Recipe Keys": [
+                ""
+            ],
+            "Recipe Tags": [
+                ""
+            ],
+            "Recipe Badges": [
+                ""
+            ],
+            "Prep Time": [
+                ""
+            ],
+            "Cook Time": [
+                ""
+            ],
+            "Rest Time": [
+                ""
+            ],
+            "Extended Content": [
+                ""
+            ],
+            "No recipes found.": [
+                ""
+            ],
+            "Recipe Author": [
+                ""
+            ],
+            "Recipe Dietaries": [
+                ""
+            ],
+            "Back": [
+                ""
+            ],
+            "Proceed to Next Step": [
+                ""
+            ],
+            "10": [
+                ""
+            ],
+            "25": [
+                ""
+            ],
+            "50": [
+                ""
+            ],
+            "100": [
+                ""
+            ],
+            "Show All": [
+                ""
+            ],
+            "Show": [
+                ""
+            ],
+            "Entries": [
+                ""
+            ],
+            "Showing": [
+                ""
+            ],
+            "entries": [
+                ""
+            ],
+            "-": [
+                ""
+            ],
+            "of": [
+                ""
+            ],
+            "Choose CSV File": [
+                ""
+            ],
+            "Add CSV File": [
+                ""
+            ],
+            "Please select a valid CSV file.": [
+                ""
+            ],
+            "Learn how to format your CSV file for import.": [
+                ""
+            ],
+            "Please upload or choose CSV file to proceed with the import.": [
+                ""
+            ],
+            "Delete the CSV file after a successful import.": [
+                ""
+            ],
+            "Map Recipes Fields": [
+                ""
+            ],
+            "Plugin Fields": [
+                ""
+            ],
+            "Map With": [
+                ""
+            ],
+            "Select Field": [
+                ""
+            ],
+            "CSV Fields": [
+                ""
+            ],
+            "Select from the options below to import your recipes.": [
+                ""
+            ],
+            "We recommend taking a full backup of your site before proceeding with the import. Alternatively, you can also create a staging site and import the recipes.": [
+                ""
+            ],
+            "CSV File Upload": [
+                ""
+            ],
+            "Fields Mapping": [
+                ""
+            ],
+            "Summary": [
+                ""
+            ],
+            "Import Process": [
+                ""
+            ],
+            "Fields Mapped:": [
+                ""
+            ],
+            "Selected recipes listed above.": [
+                ""
+            ],
+            "Delete the recipes from ": [
+                ""
+            ],
+            " after a successful import.": [
+                ""
+            ],
+            "Recipe Subtitle": [
+                ""
+            ],
+            "Recipe Description": [
+                ""
+            ],
+            "Recipe Keywords": [
+                ""
+            ],
+            "Difficulty Level": [
+                ""
+            ],
+            "Ingredient Title": [
+                ""
+            ],
+            "Instruction Title": [
+                ""
+            ],
+            "Post Content": [
+                ""
+            ],
+            "Post Excerpt": [
+                ""
+            ],
+            "Recipe Author Email": [
+                ""
+            ],
+            "Comment Status": [
+                ""
+            ],
+            "Cooking Temperature": [
+                ""
+            ],
+            "Recipe Calories": [
+                ""
+            ],
+            "Number of Servings": [
+                ""
+            ],
+            "Image Gallery": [
+                ""
+            ],
+            "Video Gallery": [
+                ""
+            ],
+            "Recipe Notes": [
+                ""
+            ],
+            "FAQ Title": [
+                ""
+            ],
+            "Recipe FAQs": [
+                ""
+            ],
+            "Equipment Title": [
+                ""
+            ],
+            "Recipe Equipment": [
+                ""
+            ]
+        }
+    }
+}
